@@ -134,7 +134,7 @@ const products = {
   nurofenFC4O100ml: { name: "Nurofen for Children 4% Orange - 100ml", price: 139.99, active: false },
   nurofenFC4S100ml: { name: "Nurofen for Children 4% Strawberry - 100ml", price: 139.99, active: false },
   optiveFED10ml: { name: "Optive Fusion Eye Drops - 10ml", price: 149.99, active: true },
-  osteoezeG90Cap: { name: "OsteoEze Gold - 90 Capsules", price: 319.99, active: true },
+  osteoezeG90Cap: { name: "OsteoEze Gold - 90 Capsules", price: 319.99, active: false },
   panado20Cap: { name: "Panado - 20 Capsules", price: 44.99, active: false },
   panado24Tab: { name: "Panado - 24 Tablets", price: 29.99, active: true },
   panadoBP24Tab: { name: "Panado Blister Pack - 24 Tablets", price: 29.99, active: true },
@@ -244,7 +244,7 @@ const products = {
 
   // VALUE PACKS OR BUY ONE GET ONE
   linctagonCN200Value1plus1: { name: "Linctagon-C NAC200 Buy 1 Get 1 Free", price: 139.99, active: false, bogo: true },
-  osteoezeGoldValue90plus30Cap: { name: "OsteoEze Gold - 90 + 30 Capsules", price: 279.90, active: false },
+  osteoezeGoldValue90plus30Cap: { name: "OsteoEze Gold - 90 + 30 Capsules", price: 279.90, active: true },
   sparsolaSPF50Value200plus70ml: { name: "SPAR Sola SPF50 Spray - 200+70ml", price: 124.99, active: false }
 };
 
