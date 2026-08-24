@@ -94,7 +94,7 @@ const products = {
   hardrockC1Sac: { name: "Hard Rock Coffee - 1 Sachet", price: 45.90, active: false },
   hedelixCS100ml: { name: "Hedelix Cough Syrup - 100ml", price: 114.99, active: false },
   himalayaM50Tab: { name: "Himalaya Mentat - 50 Tablets", price: 129.99, active: true },
-  himalayaM100ml: { name: "Himalaya Mentat - 100ml", price: 129.99, active: true },
+  himalayaM100ml: { name: "Himalaya Mentat - 100ml", price: 119.99, active: true },
   himalayaP100Tab: { name: "Himalaya Pilex - 100 Tablets", price: 109.90, active: false },
   hlalaUphilileIS30Cap: { name: "Hlala Uphilile Immune Support- 30 Capsules", price: 76.90, active: false },
   iberogastOL20ml: { name: "Iberogast Oral Liquid - 20ml", price: 99.99, active: false },
