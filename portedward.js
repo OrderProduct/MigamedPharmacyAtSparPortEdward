@@ -140,7 +140,7 @@ const products = {
   niveaMSSG250ml: { name: "Nivea Men Sensitive Shaving Gel - 250ml", price: 94.99, active: false },
   nurofenFC4O100ml: { name: "Nurofen for Children 4% Orange - 100ml", price: 139.99, active: false },
   nurofenFC4S100ml: { name: "Nurofen for Children 4% Strawberry - 100ml", price: 139.99, active: false },
-  nutripureMAG60Gum: { name: "NutriPure Magnesium Adult Gummies - 60 Gummies", price: 179.99, active: true },
+  nutripureMAG60Gum: { name: "NutriPure Magnesium Adult Gummies - 60 Gummies", price: 179.99, active: false },
   optiveFED10ml: { name: "Optive Fusion Eye Drops - 10ml", price: 149.99, active: false },
   osteoezeG90Cap: { name: "OsteoEze Gold - 90 Capsules", price: 319.99, active: false },
   panado20Cap: { name: "Panado - 20 Capsules", price: 44.99, active: false },
