@@ -260,7 +260,8 @@ const products = {
   linctagonCN200Value1plus1: { name: "Linctagon-C NAC200 Buy 1 Get 1 Free", price: 139.99, active: false, bogo: true },
   osteoezeGoldValue90plus30Cap: { name: "OsteoEze Gold - 90 + 30 Capsules", price: 279.90, active: false },
   sparsolaSPF50Value200plus70ml: { name: "SPAR Sola SPF50 Spray - 200 + 70ml", price: 124.99, active: true },
-  zambukOValue1plus17g: { name: "Zam-Buk Ointment Buy 1 Get 1 Free - 7g", price: 11.99, active: true, bogo: true }
+  zambukOValue1plus17g: { name: "Zam-Buk Ointment Buy 1 Get 1 Free - 7g", price: 11.99, active: true, bogo: true },
+  zambukOHValue1plus17g: { name: "Zam-Buk Ointment Heritage Buy 1 Get 1 Free - 7g", price: 11.99, active: false, bogo: true }
 };
 
 let order = {};
