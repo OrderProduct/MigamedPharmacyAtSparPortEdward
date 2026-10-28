@@ -129,7 +129,7 @@ const products = {
   linctagonCO20Eff: { name: "Linctagon-C Orange - 20 Effervescent", price: 129.99, active: false },
   linctagonCJCFS100ml: { name: "Linctagon-C Junior Cold & Flu Syrup - 100ml", price: 79.99, active: false },
   linctagonCJB12Eff: { name: "Linctagon-C Junior Berry - 12 Effervescent", price: 104.99, active: false },
-  linctagonCJO12Eff: { name: "Linctagon-C Junior Orange - 12 Effervescent", price: 149.99, active: true },
+  linctagonCJO12Eff: { name: "Linctagon-C Junior Orange - 12 Effervescent", price: 139.90, active: true },
   linctagonCL12Lol: { name: "Linctagon Cherry Lollies - 12 Lollies", price: 69.99, active: false },
   linctagonCPN200O12Eff: { name: "Linctagon-C Plus NAC200 Orange - 12 Effervescent", price: 169.99, active: true },
   linctagonF20Cap: { name: "Linctagon Forte - 20 Capsules", price: 104.99, active: false },
